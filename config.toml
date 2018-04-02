@@ -1,0 +1,7 @@
+[parity]
+chain = "kovan"
+base_path = "/data"
+
+[rpc]
+port            = 8545
+interface = "all"
