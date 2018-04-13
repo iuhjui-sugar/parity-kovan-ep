@@ -5,3 +5,6 @@ base_path = "/data"
 [rpc]
 port            = 8545
 interface = "all"
+
+[ui]
+disable = true
